@@ -7,6 +7,8 @@ The Ulitimate MiniGame TheBridge By ItsToxicGG
 - And much more!
 # Libs/Depends/Needed to run the plugin
 - PartyEngine (https://github.com/ItsToxicGG/PartyEngine)
+# Warning
+You will need A Special PocketMine-MP but using normal is alright
 # Todo
 - Cosmetics
 - Levels 
