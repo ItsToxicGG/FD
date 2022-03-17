@@ -5,4 +5,7 @@ branches:
 projects:
   TheBridge:
     path: ""
+    libs:
+      - src: EasyUI
+        version: ^1.0.2
 ...
