@@ -8,3 +8,5 @@ The Ulitimate MiniGame TheBridge By ItsToxicGG
 # Todo
 - Cosmetics
 - Levels 
+# Credits
+Credits to FlanbaNetWork
