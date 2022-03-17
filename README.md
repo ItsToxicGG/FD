@@ -6,7 +6,7 @@ The Ulitimate MiniGame TheBridge By ItsToxicGG
 - Customisable Kit
 - And much more!
 # Libs/Depends/Needed to run the plugin
-- PartyEngine (https://github.com/ItzToxicGG/PartyEngine)
+- PartyEngine (https://github.com/ItsToxicGG/PartyEngine)
 # Todo
 - Cosmetics
 - Levels 
