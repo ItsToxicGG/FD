@@ -1,4 +1,10 @@
 # TheBridge
 The Ulitimate MiniGame TheBridge By ItsToxicGG
+# Features
+- Teams
+- Scoreboard
+- Customisable Kit
+- And much more!
 # Todo
-- d
+- Cosmetics
+- Levels 
